@@ -36,7 +36,7 @@ Homework_1
 -----
     __ANS__
     1. Dataset使用 https://github.com/ManSoSec/Microsoft-Malware-Challenge
-       所提供的training dataset (LargeTrain.csv)和label (trainLabels.csv)兩個檔案
+       所提供的training dataset (LargeTrain.csv)
     2. 將LargeTrain.csv的屬性名稱移出到另外一個檔案, 命名成 Attribute.csv
     3. 將LargeTrain.csv的class屬性移到第一欄, 作為target
     4. 把LargeTrain.csv命名成Dataset.csv
